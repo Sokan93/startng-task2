@@ -1,0 +1,21 @@
+body{
+    font-family: 'Lobster', cursive;
+    background-color: whitesmoke;
+    max-width: 900px;
+}
+
+img{
+    display: block;
+    margin: auto 0;
+}
+
+ul li{
+    list-style: none;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+

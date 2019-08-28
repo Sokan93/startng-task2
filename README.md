@@ -12,4 +12,8 @@ It's been an awesome task this one.
 
 [Flutterwave social media post](https://twitter.com/AyodejiSokan/status/1164534861014753282)
 
+**Task three Lucid blog post below**
+
+[New Lucid post for task 3](https://lucid.blog/ayodejisokan/post/whats-html-without-css-5c2)
+
 
